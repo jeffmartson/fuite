@@ -42,7 +42,7 @@
     "stacktrace-parser": "^0.1.10",
     "table": "^6.8.1",
     "temp-dir": "^3.0.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "chai": "^4.3.7",
